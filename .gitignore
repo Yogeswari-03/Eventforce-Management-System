@@ -1,0 +1,11 @@
+# Salesforce / SFDX
+.sfdx/
+.sf/
+.localdevserver/
+.vscode/
+node_modules/
+*.log
+.DS_Store
+# Never commit credentials
+*.env
+.env
