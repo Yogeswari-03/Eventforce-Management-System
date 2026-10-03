@@ -66,3 +66,8 @@ System.schedule('Complete Past Events Nightly', '0 0 20 * * ?', new ScheduleComp
 - Online payment integration
 - Client portal or mobile app
 - More reports and dashboard charts
+ ## Project Documentation
+[View the documentation (PDF)](EventForce_Documentation_Yogeswari.pdf)
+
+## Demo Video
+[Watch the demo video here](https://youtu.be/UnPdUxf0Q9I)
